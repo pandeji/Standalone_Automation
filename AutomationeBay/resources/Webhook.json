@@ -1,0 +1,14 @@
+[ {
+  "Option_Name1" : "Size",
+  "Option_Name2" : "Color",
+  "Option_Value1" : "M",
+  "Option_Value2" : "L",
+  "Option_Value3" : "S",
+  "Inventory" : "20",
+  "Inventory1" : "50",
+  "Inventory2" : "100",
+  "Threshold_Inventory" : "50",
+  "Title" : "Automation Product",
+  "Image" : "https://cdn.shopify.com/s/files/1/0661/2883/8897/products/2015-05-08_Laydown_Look2_14120_21584_b79c2a59-3d65-4e64-86a7-a1b217cbc527_350x350.jpg?v=1674822713",
+  "Image1" : "https://cdn.shopify.com/s/files/1/0661/2883/8897/products/2015-04-20_Accessories_21_15669_21336_8dbbb9af-fe2c-4859-b19b-7a72773747ef_350x350.jpg?v=1674822665"
+} ]
